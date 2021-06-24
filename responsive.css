@@ -1,0 +1,240 @@
+
+@media (max-width:1265px) {
+    .header {
+        padding: 0 30px;
+    }
+ 
+}
+@media (max-width:1300px) {
+
+}
+@media (max-width:1163px) {
+    .about-left-img {
+        margin-left: 20px;
+    }
+    .about-right-text p {
+        width: 95%;
+        text-align: justify;
+    }
+}
+@media (max-width:958px) {
+    .about-right-text h1 {
+        margin-bottom: 10px;
+    }
+    .about-right-text h2 {
+        margin-bottom: 15px;
+    }
+    .about-right-text p {
+        line-height: 26px;
+    }
+}
+@media (max-width:868px) {
+    .about-right-text h1 {
+        margin-bottom: 5px;
+    }
+    .about-right-text h2 {
+        margin-bottom: 10px;
+    }
+    .about-right-text p {
+        line-height: 20px;
+    }
+}
+@media (max-width:780px) {
+    .about-right-text h1 {
+        
+        font-size: 22px;
+    }
+    .about-right-text p {
+        font-size: 16px;
+        line-height: 14px;
+    }
+    .about-right-text h2 {
+        font-size: 20px;
+    }
+}
+@media (max-width:928px) {
+    .header-right ul li a {
+        padding: 0 20px;
+        line-height: 74px;
+       
+    }
+    .header-left img {
+        width: 150px;     
+    
+}
+}
+
+@media (max-width:768px) {
+    .header-left img {
+        width: 125px;
+    }
+    .header-right ul li a {
+        padding: 0 15px;
+        line-height: 65px;
+        font-size: 17px;
+    }
+    .header {
+        padding: 0 25px;
+    }
+}
+@media (max-width:576px) {
+    .about-left-img {
+        float: left;
+        width: 100%;
+        margin: auto;
+        text-align: center;
+    }
+    .about-left-img img {
+        width: 398px;
+        height: auto;
+    }
+    .about-right-text {
+        margin-top: -1px;
+    }
+    .about-right-text {
+        float: right;
+        text-align: center;
+       
+        margin: auto;
+        width: 100%;
+    }
+    .about-right-text h1 {
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+    .about-right-text h2 {
+        margin-bottom: 15px;
+    }
+    .about-right-text p {
+        font-size: 16px;
+        line-height: 28px;
+        
+        margin: auto;
+    }
+    .service-item {
+        width: 100%;
+        margin-bottom: 20px;
+    
+    }
+    .services-content {
+        margin: 0 20px;
+    }
+    .footer-social-icon ul {
+        text-align: center;
+        margin-top: 15px;
+    }
+    .footer-left-copyright {
+        
+        width: 100%;
+        text-align: center;
+    }
+    .footer-right-icon {
+        float: right;
+        width: 100%;
+     }
+     .footer{
+         padding: 15px 0; 
+     }
+}  
+
+	
+
+@media (max-width:715px) {
+    .banner-caption h1 {
+        font-size: 30px;
+        color: crimson;
+    }
+    .banner-caption h2 {
+        color: #05ac05;
+        font-size: 25px;
+    }
+}
+@media (max-width:657px) {
+    .header-left {
+        width: 100%;
+        text-align: center;
+    }
+    .header-right ul {
+        text-align: center;
+    }
+    .header-right {
+        width: 100%;
+       
+    }
+    .header-right ul li a {
+        border-right: none;
+    }
+    .header-left img {
+        width: 125px;
+        padding-bottom: 0;
+    }
+}
+@media (max-width:655px) {
+    .banner {
+        padding: 200px 25px;
+    }
+}
+@media (max-width:572px) {
+    .banner {
+        padding: 200px 25px;
+    }
+    .banner-caption h1 {
+        font-size: 24px;
+        color: crimson;
+    }
+    .banner-caption h2 {
+        color: #05ac05;
+        font-size: 20px;
+    }
+}
+@media (max-width:500px) {
+    .header-right ul li a {
+        padding: 0px 10px;
+        line-height: 65px;
+        font-size: 16px;
+    }
+    .banner {
+        padding: 200px 25px;
+    }
+  
+}
+
+
+@media (max-width:430px) {
+    .header-left {
+        width: 100%;
+        text-align: left;
+    }.header-right {
+        width: 100%;
+    }.header-right ul {
+        text-align: left;
+      
+    }.header-right ul li {
+        display: block;
+    }.header-right ul li a {
+     
+        line-height: 31px;
+        
+    }
+    .banner-caption h1 {
+        font-size: 20px;
+        
+    }
+    .banner {
+        padding: 90px 25px;
+    }
+}
+@media (max-width:380px) {
+    .banner-caption h1 {
+        font-size: 18px;
+    }
+    .about-left-img {
+        float: left;
+        width: 90%;
+        margin: auto;
+        text-align: center;
+        
+        margin: 0 20px;
+    }
+  
+}
